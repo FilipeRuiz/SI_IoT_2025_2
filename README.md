@@ -1,4 +1,4 @@
-# SI_IoT_2025_2
+# SI_IoT_2025_Aula1
 
 # Dicas ESP32:
 ## 01) Para programar o ESP32 usando a IDE arduino vá no Menu Arquivo > Preferências
